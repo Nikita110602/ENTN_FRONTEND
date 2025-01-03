@@ -4,8 +4,8 @@ import { useNavigate } from "react-router-dom";
 const AdminLogin = () => {
   const navigate = useNavigate(); 
   const [formData, setFormData] = useState({
-    email: "",
-    password: "",
+    email: "entnt@gmail.com",
+    password: "12345678",
   });
 
   const handleInputChange = (e) => {
