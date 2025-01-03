@@ -1,7 +1,7 @@
 
 ---
 
-# Aryan_ENTNT_Assignment_Frontend(React.js)
+# Nikita_ENTNT_Assignment_Frontend(React.js)
 
 ## Overview
 
